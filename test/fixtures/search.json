@@ -1,0 +1,30 @@
+{
+  "location": null,
+  "data": [
+    {
+      "id": "gb/london",
+      "name": "London",
+      "country": "gb",
+      "population": 8982000,
+      "lat": 51.5,
+      "lon": -0.25,
+      "timezone": "Europe/London",
+      "weather_available": true
+    },
+    {
+      "id": "ca/london",
+      "name": "London",
+      "country": "ca",
+      "population": null,
+      "weather_available": false
+    }
+  ],
+  "meta": {
+    "credits": 0,
+    "credits_remaining": 1234,
+    "methodology_version": "test-1",
+    "query": "lon",
+    "country": null,
+    "count": 2
+  }
+}

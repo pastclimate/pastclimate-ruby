@@ -1,0 +1,3 @@
+date,daily_avg_temp,daily_min_temp,daily_max_temp,daily_total_rain,daily_avg_wind,daily_avg_cloud_percent,rain_flag
+2024-01-01,5.2,2.1,8.4,1.3,4.1,78,true
+2024-01-02,4.8,1.0,7.9,0.0,3.0,40,false

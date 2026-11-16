@@ -1,0 +1,43 @@
+{
+  "location": {
+    "id": "gb/london",
+    "name": "London",
+    "country": "gb",
+    "lat": 51.5,
+    "lon": -0.25,
+    "timezone": "Europe/London"
+  },
+  "data": [
+    {
+      "year": 2024,
+      "month": 1,
+      "monthly_avg_temp": 5.5,
+      "monthly_min_temp": -2.0,
+      "monthly_max_temp": 12.1,
+      "monthly_total_rain": 60.4,
+      "monthly_avg_wind": 4.4,
+      "monthly_avg_pressure": 1008.3,
+      "monthly_avg_cloud_percent": 71.2,
+      "monthly_total_solar_j_m2": 95000000.0,
+      "rainy_days": 15,
+      "heavy_rain_days": 1,
+      "extreme_heat_days": 0,
+      "extreme_cold_days": 2,
+      "hours": 744,
+      "days": 31
+    }
+  ],
+  "meta": {
+    "credits": 7,
+    "credits_remaining": 1234,
+    "methodology_version": "test-1",
+    "units": {
+      "system": "metric",
+      "temperature": "C",
+      "precipitation": "mm",
+      "wind_speed": "m/s",
+      "pressure": "hPa"
+    },
+    "rows": 1
+  }
+}

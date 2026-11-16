@@ -1,0 +1,28 @@
+{
+  "location": {
+    "id": "gb/london",
+    "name": "London",
+    "country": "gb",
+    "lat": 51.5,
+    "lon": -0.25,
+    "timezone": "Europe/London"
+  },
+  "data": {
+    "id": "gb/london",
+    "name": "London",
+    "country": "gb",
+    "lat": 51.5,
+    "lon": -0.25,
+    "timezone": "Europe/London",
+    "population": 8982000,
+    "coverage": {
+      "first_year": 1990,
+      "last_date": "2026-10-31"
+    }
+  },
+  "meta": {
+    "credits": 0,
+    "credits_remaining": 1234,
+    "methodology_version": "test-1"
+  }
+}

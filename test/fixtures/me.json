@@ -1,0 +1,40 @@
+{
+  "location": null,
+  "data": {
+    "plan": {
+      "id": "free",
+      "name": "Free",
+      "commercial_use": false,
+      "attribution_link_required": true,
+      "hourly_max_days_per_call": 3,
+      "hourly_max_age_months": 5
+    },
+    "key": {
+      "spend_order": "plan_first"
+    },
+    "credits": {
+      "one_time_limit": 321,
+      "one_time_remaining": 300,
+      "used_all_time": 21,
+      "monthly_limit": null,
+      "used_this_month": 21,
+      "remaining_this_month": null,
+      "month_resets_at": null,
+      "daily_cap": null,
+      "used_today": 3,
+      "remaining_today": null,
+      "day_resets_at": "2026-11-15T00:00:00Z",
+      "topup_balance": 11,
+      "topup_used": 4
+    },
+    "rate_limit": {
+      "per_minute": 17,
+      "remaining": 16
+    }
+  },
+  "meta": {
+    "credits": 0,
+    "credits_remaining": 1234,
+    "methodology_version": "test-1"
+  }
+}
